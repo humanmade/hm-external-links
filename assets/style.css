@@ -1,0 +1,17 @@
+a.has-external-link::after {
+	background-color: currentColor;
+	content: '';
+	display: inline-block;
+	height: var(--arrow-size, 0.78em);
+	margin-left: var(--arrow-margin, 0.72em);
+	-webkit-mask-image: var(--hm-external-icon-url);
+	-webkit-mask-position: center;
+	-webkit-mask-repeat: no-repeat;
+	-webkit-mask-size: contain;
+	mask-image: var(--hm-external-icon-url);
+	mask-position: center;
+	mask-repeat: no-repeat;
+	mask-size: contain;
+	vertical-align: middle;
+	width: var(--arrow-size, 0.78em);
+}

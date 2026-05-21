@@ -1,0 +1,16 @@
+{
+  "name": "hm-external-links",
+  "version": "1.0.0",
+  "description": "Opens external links in a new tab and optionally displays an external link icon.",
+  "author": "Human Made Limited",
+  "license": "GPL-2.0-or-later",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "lint:js": "wp-scripts lint-js ./src/**/*.js",
+    "format": "wp-scripts format ./src"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^31.6.0"
+  }
+}
