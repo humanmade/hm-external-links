@@ -2,7 +2,7 @@
 /**
  * Plugin Name: HM External Links
  * Description: Automatically detects and handles external links sitewide — opens them in a new tab and optionally displays an icon.
- * Version:     __VERSION__
+ * Version:     1.0.0
  * Requires at least: 6.0
  * Tested up to:      6.7
  * Requires PHP:      7.4
