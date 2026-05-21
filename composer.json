@@ -1,0 +1,15 @@
+{
+	"name": "humanmade/hm-external-links",
+	"description": "Automatically detects and handles external links sitewide — opens them in a new tab and optionally displays an icon.",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0-or-later",
+	"authors": [
+		{
+			"name": "Human Made Limited",
+			"email": "engineering@humanmade.com"
+		}
+	],
+	"require": {
+		"composer/installers": "^1 || ^2"
+	}
+}
