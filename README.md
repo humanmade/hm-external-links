@@ -45,7 +45,7 @@ To replace the icon SVG entirely, override the CSS variable the plugin injects:
 
 The plugin adds `target="_blank"` to external links but does not automatically announce this to screen reader users. It is recommended to add a visible or visually-hidden indication (e.g. "(opens in new tab)") in your theme where relevant.
 
-## Development
+## Development:
 
 ```bash
 npm install
